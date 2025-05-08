@@ -1,3 +1,5 @@
+여기는 메인브렌치 시티
+
 total 50
 drwxr-xr-x 1 YUHAN 197121     0 May  8 14:35 ./
 drwxr-xr-x 1 YUHAN 197121     0 May  8 14:23 ../
